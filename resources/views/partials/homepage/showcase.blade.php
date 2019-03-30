@@ -21,7 +21,7 @@
                                 <div class="content">
 
                                     <!-- Title -->
-                                    <h2 class="title"><a href="post-details.html">Political Allies Are Not Friend.</a></h2>
+                                    <h2 class="title"><a href="#">Political Allies Are Not Friend.</a></h2>
 
                                     <!-- Meta -->
                                     <div class="meta fix">
@@ -51,7 +51,7 @@
                                 <div class="content">
 
                                     <!-- Title -->
-                                    <h2 class="title"><a href="post-details.html">Fashion is about something that come from with in you.</a></h2>
+                                    <h2 class="title"><a href="#">Fashion is about something that come from with in you.</a></h2>
 
                                     <!-- Meta -->
                                     <div class="meta fix">
@@ -101,7 +101,7 @@
                                         <div class="content">
 
                                             <!-- Title -->
-                                            <h4 class="title"><a href="post-details.html">Apple, time to IOS With macos.</a></h4>
+                                            <h4 class="title"><a href="#">Apple, time to IOS With macos.</a></h4>
 
                                             <!-- Meta -->
                                             <div class="meta fix">
@@ -131,7 +131,7 @@
                                         <div class="content">
 
                                             <!-- Title -->
-                                            <h4 class="title"><a href="post-details.html">Upcoming Event 10 Dec at Bonobisree Area.</a></h4>
+                                            <h4 class="title"><a href="#">Upcoming Event 10 Dec at Bonobisree Area.</a></h4>
 
                                             <!-- Meta -->
                                             <div class="meta fix">

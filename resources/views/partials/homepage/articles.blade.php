@@ -71,13 +71,13 @@
                                             <div class="post-wrap">
 
                                                 <!-- Image -->
-                                                <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-51.jpg')}}" alt="post"></a>
+                                                <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-51.jpg')}}" alt="post"></a>
 
                                                 <!-- Content -->
                                                 <div class="content">
 
                                                     <!-- Title -->
-                                                    <h4 class="title"><a href="post-details.html">Fashion is about some thing that comes from with in you.</a></h4>
+                                                    <h4 class="title"><a href="#">Fashion is about some thing that comes from with in you.</a></h4>
 
                                                     <!-- Meta -->
                                                     <div class="meta fix">
@@ -104,13 +104,13 @@
                                             <div class="post-wrap">
 
                                                 <!-- Image -->
-                                                <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-52.jpg')}}" alt="post"></a>
+                                                <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-52.jpg')}}" alt="post"></a>
 
                                                 <!-- Content -->
                                                 <div class="content">
 
                                                     <!-- Title -->
-                                                    <h5 class="title"><a href="post-details.html">Hynpodia helps female travelers find health.</a></h5>
+                                                    <h5 class="title"><a href="#">Hynpodia helps female travelers find health.</a></h5>
 
                                                     <!-- Meta -->
                                                     <div class="meta fix">
@@ -127,13 +127,13 @@
                                             <div class="post-wrap">
 
                                                 <!-- Image -->
-                                                <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-53.jpg')}}" alt="post"></a>
+                                                <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-53.jpg')}}" alt="post"></a>
 
                                                 <!-- Content -->
                                                 <div class="content">
 
                                                     <!-- Title -->
-                                                    <h5 class="title"><a href="post-details.html">Australia announced squad for Bangladesh tour.</a></h5>
+                                                    <h5 class="title"><a href="#">Australia announced squad for Bangladesh tour.</a></h5>
 
                                                     <!-- Meta -->
                                                     <div class="meta fix">
@@ -150,13 +150,13 @@
                                             <div class="post-wrap">
 
                                                 <!-- Image -->
-                                                <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-54.jpg')}}" alt="post"></a>
+                                                <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-54.jpg')}}" alt="post"></a>
 
                                                 <!-- Content -->
                                                 <div class="content">
 
                                                     <!-- Title -->
-                                                    <h5 class="title"><a href="post-details.html">Fish Fry With green vegetables.</a></h5>
+                                                    <h5 class="title"><a href="#">Fish Fry With green vegetables.</a></h5>
 
                                                     <!-- Meta -->
                                                     <div class="meta fix">
@@ -187,13 +187,13 @@
                                             <div class="post-wrap">
 
                                                 <!-- Image -->
-                                                <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-51.jpg')}}" alt="post"></a>
+                                                <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-51.jpg')}}" alt="post"></a>
 
                                                 <!-- Content -->
                                                 <div class="content">
 
                                                     <!-- Title -->
-                                                    <h4 class="title"><a href="post-details.html">Fashion is about some thing that comes from with in you.</a></h4>
+                                                    <h4 class="title"><a href="#">Fashion is about some thing that comes from with in you.</a></h4>
 
                                                     <!-- Meta -->
                                                     <div class="meta fix">
@@ -220,13 +220,13 @@
                                             <div class="post-wrap">
 
                                                 <!-- Image -->
-                                                <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-52.jpg')}}" alt="post"></a>
+                                                <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-52.jpg')}}" alt="post"></a>
 
                                                 <!-- Content -->
                                                 <div class="content">
 
                                                     <!-- Title -->
-                                                    <h5 class="title"><a href="post-details.html">Hynpodia helps female travelers find health.</a></h5>
+                                                    <h5 class="title"><a href="#">Hynpodia helps female travelers find health.</a></h5>
 
                                                     <!-- Meta -->
                                                     <div class="meta fix">
@@ -243,13 +243,13 @@
                                             <div class="post-wrap">
 
                                                 <!-- Image -->
-                                                <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-53.jpg')}}" alt="post"></a>
+                                                <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-53.jpg')}}" alt="post"></a>
 
                                                 <!-- Content -->
                                                 <div class="content">
 
                                                     <!-- Title -->
-                                                    <h5 class="title"><a href="post-details.html">Australia announced squad for Bangladesh tour.</a></h5>
+                                                    <h5 class="title"><a href="#">Australia announced squad for Bangladesh tour.</a></h5>
 
                                                     <!-- Meta -->
                                                     <div class="meta fix">
@@ -266,13 +266,13 @@
                                             <div class="post-wrap">
 
                                                 <!-- Image -->
-                                                <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-54.jpg')}}" alt="post"></a>
+                                                <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-54.jpg')}}" alt="post"></a>
 
                                                 <!-- Content -->
                                                 <div class="content">
 
                                                     <!-- Title -->
-                                                    <h5 class="title"><a href="post-details.html">Fish Fry With green vegetables.</a></h5>
+                                                    <h5 class="title"><a href="#">Fish Fry With green vegetables.</a></h5>
 
                                                     <!-- Meta -->
                                                     <div class="meta fix">
@@ -387,7 +387,7 @@
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h4 class="title"><a href="post-details.html">Creat Your Home With A Great Designer.</a></h4>
+                                                <h4 class="title"><a href="#">Creat Your Home With A Great Designer.</a></h4>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -404,13 +404,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-21.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-21.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Hynpodia helps female travelers find health.</a></h5>
+                                                <h5 class="title"><a href="#">Hynpodia helps female travelers find health.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -427,13 +427,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-22.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-22.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Australia announced squad for Bangladesh tour.</a></h5>
+                                                <h5 class="title"><a href="#">Australia announced squad for Bangladesh tour.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -450,13 +450,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-23.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-23.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Fish Fry With green vegetables.</a></h5>
+                                                <h5 class="title"><a href="#">Fish Fry With green vegetables.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -473,13 +473,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-24.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-24.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Apple, time to IOS With macos.</a></h5>
+                                                <h5 class="title"><a href="#">Apple, time to IOS With macos.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -511,7 +511,7 @@
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h4 class="title"><a href="post-details.html">Creat Your Home With A Great Designer.</a></h4>
+                                                <h4 class="title"><a href="#">Creat Your Home With A Great Designer.</a></h4>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -528,13 +528,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-21.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-21.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Hynpodia helps female travelers find health.</a></h5>
+                                                <h5 class="title"><a href="#">Hynpodia helps female travelers find health.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -551,13 +551,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-22.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-22.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Australia announced squad for Bangladesh tour.</a></h5>
+                                                <h5 class="title"><a href="#">Australia announced squad for Bangladesh tour.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -574,13 +574,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-23.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-23.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Fish Fry With green vegetables.</a></h5>
+                                                <h5 class="title"><a href="#">Fish Fry With green vegetables.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -597,13 +597,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-24.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-24.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Apple, time to IOS With macos.</a></h5>
+                                                <h5 class="title"><a href="#">Apple, time to IOS With macos.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -656,13 +656,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-56.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-56.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Who Else Wants To Be Successful With education.</a></h5>
+                                                <h5 class="title"><a href="#">Who Else Wants To Be Successful With education.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -679,13 +679,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-57.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-57.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">The Biggest Contribution Of Education To Humanity.</a></h5>
+                                                <h5 class="title"><a href="#">The Biggest Contribution Of Education To Humanity.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -702,13 +702,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-58.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-58.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">7 Outrageous Ideas For Your Graphic Class.</a></h5>
+                                                <h5 class="title"><a href="#">7 Outrageous Ideas For Your Graphic Class.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -725,13 +725,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-59.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-59.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Everything You Need To Know About Education.</a></h5>
+                                                <h5 class="title"><a href="#">Everything You Need To Know About Education.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -748,13 +748,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-60.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-60.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Who Else Wants To Be Successful With education.</a></h5>
+                                                <h5 class="title"><a href="#">Who Else Wants To Be Successful With education.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -771,13 +771,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-56.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-56.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Who Else Wants To Be Successful With education.</a></h5>
+                                                <h5 class="title"><a href="#">Who Else Wants To Be Successful With education.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -794,13 +794,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-57.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-57.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">The Biggest Contribution Of Education To Humanity.</a></h5>
+                                                <h5 class="title"><a href="#">The Biggest Contribution Of Education To Humanity.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -817,13 +817,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-58.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-58.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">7 Outrageous Ideas For Your Graphic Class.</a></h5>
+                                                <h5 class="title"><a href="#">7 Outrageous Ideas For Your Graphic Class.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -840,13 +840,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-59.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-59.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Everything You Need To Know About Education.</a></h5>
+                                                <h5 class="title"><a href="#">Everything You Need To Know About Education.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -863,13 +863,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-60.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-60.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Who Else Wants To Be Successful With education.</a></h5>
+                                                <h5 class="title"><a href="#">Who Else Wants To Be Successful With education.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -914,7 +914,7 @@
                          <div class="content">
 
                              <!-- Title -->
-                             <h4 class="title"><a href="post-details.html">Apple, time to IOS With macos.</a></h4>
+                             <h4 class="title"><a href="#">Apple, time to IOS With macos.</a></h4>
 
                              <!-- Meta -->
                              <div class="meta fix">
@@ -942,7 +942,7 @@
                          <div class="content">
 
                              <!-- Title -->
-                             <h4 class="title"><a href="post-details.html">Ios alternatives in 2017.</a></h4>
+                             <h4 class="title"><a href="#">Ios alternatives in 2017.</a></h4>
 
                          </div>
 
@@ -962,7 +962,7 @@
                          <div class="content">
 
                              <!-- Title -->
-                             <h4 class="title"><a href="post-details.html">Apple, time to IOS With macos.</a></h4>
+                             <h4 class="title"><a href="#">Apple, time to IOS With macos.</a></h4>
 
                              <!-- Meta -->
                              <div class="meta fix">
@@ -991,7 +991,7 @@
                          <div class="content">
 
                              <!-- Title -->
-                             <h4 class="title"><a href="post-details.html">Ipad VS Mac : Eposide 143.</a></h4>
+                             <h4 class="title"><a href="#">Ipad VS Mac : Eposide 143.</a></h4>
 
                          </div>
 
@@ -1075,10 +1075,10 @@
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h4 class="title"><a href="post-details.html">The week when president Safari Resigned.</a></h4>
+                                                <h4 class="title"><a href="#">The week when president Safari Resigned.</a></h4>
 
                                                 <!-- Read More -->
-                                                <a href="post-details.html" class="read-more">continue reading</a>
+                                                <a href="#" class="read-more">continue reading</a>
                                                 
                                             </div>
 
@@ -1096,10 +1096,10 @@
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h4 class="title"><a href="post-details.html">Political Allies Are Not Friend.</a></h4>
+                                                <h4 class="title"><a href="#">Political Allies Are Not Friend.</a></h4>
 
                                                 <!-- Read More -->
-                                                <a href="post-details.html" class="read-more">continue reading</a>
+                                                <a href="#" class="read-more">continue reading</a>
                                                 
                                             </div>
 
@@ -1117,10 +1117,10 @@
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h4 class="title"><a href="post-details.html">With every sneer, Just make safari be stronge.</a></h4>
+                                                <h4 class="title"><a href="#">With every sneer, Just make safari be stronge.</a></h4>
 
                                                 <!-- Read More -->
-                                                <a href="post-details.html" class="read-more">continue reading</a>
+                                                <a href="#" class="read-more">continue reading</a>
                                                 
                                             </div>
 
@@ -1138,10 +1138,10 @@
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h4 class="title"><a href="post-details.html">How group of rebel are talking on Banasree epidemic.</a></h4>
+                                                <h4 class="title"><a href="#">How group of rebel are talking on Banasree epidemic.</a></h4>
 
                                                 <!-- Read More -->
-                                                <a href="post-details.html" class="read-more">continue reading</a>
+                                                <a href="#" class="read-more">continue reading</a>
                                                 
                                             </div>
 
@@ -1168,10 +1168,10 @@
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h4 class="title"><a href="post-details.html">The week when president Safari Resigned.</a></h4>
+                                                <h4 class="title"><a href="#">The week when president Safari Resigned.</a></h4>
 
                                                 <!-- Read More -->
-                                                <a href="post-details.html" class="read-more">continue reading</a>
+                                                <a href="#" class="read-more">continue reading</a>
                                                 
                                             </div>
 
@@ -1189,10 +1189,10 @@
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h4 class="title"><a href="post-details.html">Political Allies Are Not Friend.</a></h4>
+                                                <h4 class="title"><a href="#">Political Allies Are Not Friend.</a></h4>
 
                                                 <!-- Read More -->
-                                                <a href="post-details.html" class="read-more">continue reading</a>
+                                                <a href="#" class="read-more">continue reading</a>
                                                 
                                             </div>
 
@@ -1210,10 +1210,10 @@
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h4 class="title"><a href="post-details.html">With every sneer, Just make safari be stronge.</a></h4>
+                                                <h4 class="title"><a href="#">With every sneer, Just make safari be stronge.</a></h4>
 
                                                 <!-- Read More -->
-                                                <a href="post-details.html" class="read-more">continue reading</a>
+                                                <a href="#" class="read-more">continue reading</a>
                                                 
                                             </div>
 
@@ -1231,10 +1231,10 @@
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h4 class="title"><a href="post-details.html">How group of rebel are talking on Banasree epidemic.</a></h4>
+                                                <h4 class="title"><a href="#">How group of rebel are talking on Banasree epidemic.</a></h4>
 
                                                 <!-- Read More -->
-                                                <a href="post-details.html" class="read-more">continue reading</a>
+                                                <a href="#" class="read-more">continue reading</a>
                                                 
                                             </div>
 
@@ -1282,13 +1282,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-13.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-13.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Who Else Wants To Be Successful With education.</a></h5>
+                                                <h5 class="title"><a href="#">Who Else Wants To Be Successful With education.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -1305,13 +1305,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-16.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-16.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">The Biggest Contribution Of Education To Humanity.</a></h5>
+                                                <h5 class="title"><a href="#">The Biggest Contribution Of Education To Humanity.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -1328,13 +1328,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-23.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-23.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">7 Outrageous Ideas For Your Graphic Class.</a></h5>
+                                                <h5 class="title"><a href="#">7 Outrageous Ideas For Your Graphic Class.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -1351,13 +1351,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-33.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-33.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Everything You Need To Know About Education.</a></h5>
+                                                <h5 class="title"><a href="#">Everything You Need To Know About Education.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -1374,13 +1374,13 @@
                                         <div class="post-wrap">
 
                                             <!-- Image -->
-                                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-34.jpg')}}" alt="post"></a>
+                                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-34.jpg')}}" alt="post"></a>
 
                                             <!-- Content -->
                                             <div class="content">
 
                                                 <!-- Title -->
-                                                <h5 class="title"><a href="post-details.html">Everything You Need To Know About Education.</a></h5>
+                                                <h5 class="title"><a href="#">Everything You Need To Know About Education.</a></h5>
 
                                                 <!-- Meta -->
                                                 <div class="meta fix">
@@ -1431,13 +1431,13 @@
                             <div class="post-wrap">
 
                                 <!-- Image -->
-                                <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-69.jpg')}}" alt="post"></a>
+                                <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-69.jpg')}}" alt="post"></a>
 
                                 <!-- Content -->
                                 <div class="content">
 
                                     <!-- Title -->
-                                    <h5 class="title"><a href="post-details.html">Winning T20 Farewell To Safari.</a></h5>
+                                    <h5 class="title"><a href="#">Winning T20 Farewell To Safari.</a></h5>
 
                                     <!-- Meta -->
                                     <div class="meta fix">
@@ -1448,7 +1448,7 @@
                                     <p>Lorem ipsum dolor sit amet, consectet adipiscing elits. Proin nec purus lectus. Aenean sodales quis eros is quis eleifend. </p>
                                     
                                     <!-- Read More -->
-                                    <a href="post-details.html" class="read-more">read-more</a>
+                                    <a href="#" class="read-more">read-more</a>
 
                                 </div>
 
@@ -1460,13 +1460,13 @@
                             <div class="post-wrap">
 
                                 <!-- Image -->
-                                <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-40.jpg')}}" alt="post"></a>
+                                <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-40.jpg')}}" alt="post"></a>
 
                                 <!-- Content -->
                                 <div class="content">
 
                                     <!-- Title -->
-                                    <h5 class="title"><a href="post-details.html">Hynpodia helps female travelers find health..</a></h5>
+                                    <h5 class="title"><a href="#">Hynpodia helps female travelers find health..</a></h5>
 
                                     <!-- Meta -->
                                     <div class="meta fix">
@@ -1483,13 +1483,13 @@
                             <div class="post-wrap">
 
                                 <!-- Image -->
-                                <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-41.jpg')}}" alt="post"></a>
+                                <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-41.jpg')}}" alt="post"></a>
 
                                 <!-- Content -->
                                 <div class="content">
 
                                     <!-- Title -->
-                                    <h5 class="title"><a href="post-details.html">Australia announced squad for Bangladesh tour.</a></h5>
+                                    <h5 class="title"><a href="#">Australia announced squad for Bangladesh tour.</a></h5>
 
                                     <!-- Meta -->
                                     <div class="meta fix">
@@ -1528,13 +1528,13 @@
                             <div class="post-wrap">
 
                                 <!-- Image -->
-                                <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-70.jpg')}}" alt="post"></a>
+                                <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-70.jpg')}}" alt="post"></a>
 
                                 <!-- Content -->
                                 <div class="content">
 
                                     <!-- Title -->
-                                    <h4 class="title"><a href="post-details.html">Fish Fry With green vegetables.</a></h4>
+                                    <h4 class="title"><a href="#">Fish Fry With green vegetables.</a></h4>
                                     
                                     <!-- Meta -->
                                     <div class="meta fix">
@@ -1545,7 +1545,7 @@
                                     <p>Lorem ipsum dolor sit amet, consectet adipiscing elits. Proin nec purus lectus. Aenean sodales quis eros is quis eleifend. </p>
                                     
                                     <!-- Read More -->
-                                    <a href="post-details.html" class="read-more">read-more</a>
+                                    <a href="#" class="read-more">read-more</a>
 
                                 </div>
 
@@ -1563,7 +1563,7 @@
                                 <div class="content">
 
                                     <!-- Title -->
-                                    <h4 class="title"><a href="post-details.html">Hynpodia helps female travelers find health.</a></h4>
+                                    <h4 class="title"><a href="#">Hynpodia helps female travelers find health.</a></h4>
                                     
                                     <!-- Meta -->
                                     <div class="meta fix">

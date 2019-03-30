@@ -12,19 +12,19 @@
                         <div class="post-wrap">
 
                             <!-- Image -->
-                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-7.jpg')}}" alt="post"></a>
+                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-7.jpg')}}" alt="post"></a>
 
                             <!-- Content -->
                             <div class="content fix">
 
                                 <!-- Title -->
-                                <h5 class="title"><a href="post-details.html">Most beautiful lens for an amaing photo.</a></h5>
+                                <h5 class="title"><a href="#">Most beautiful lens for an amaing photo.</a></h5>
 
                                 <!-- Description -->
                                 <p>Consectetur adipiscing or elit. Maecenas ut smagna.</p>
 
                                 <!-- Read More -->
-                                <a href="post-details.html" class="read-more">continue reading</a>
+                                <a href="#" class="read-more">continue reading</a>
 
                             </div>
                             
@@ -36,19 +36,19 @@
                         <div class="post-wrap">
 
                             <!-- Image -->
-                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-8.jpg')}}" alt="post"></a>
+                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-8.jpg')}}" alt="post"></a>
 
                             <!-- Content -->
                             <div class="content fix">
 
                                 <!-- Title -->
-                                <h5 class="title"><a href="post-details.html">Chicken masala fry with soses.</a></h5>
+                                <h5 class="title"><a href="#">Chicken masala fry with soses.</a></h5>
 
                                 <!-- Description -->
                                 <p>Consectetur adipiscing or elit. Maecenas ut smagna.</p>
 
                                 <!-- Read More -->
-                                <a href="post-details.html" class="read-more">continue reading</a>
+                                <a href="#" class="read-more">continue reading</a>
 
                             </div>
                             
@@ -60,19 +60,19 @@
                         <div class="post-wrap">
 
                             <!-- Image -->
-                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-9.jpg')}}" alt="post"></a>
+                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-9.jpg')}}" alt="post"></a>
 
                             <!-- Content -->
                             <div class="content fix">
 
                                 <!-- Title -->
-                                <h5 class="title"><a href="post-details.html">Sathi is investing villions into gadgets.</a></h5>
+                                <h5 class="title"><a href="#">Sathi is investing villions into gadgets.</a></h5>
 
                                 <!-- Description -->
                                 <p>Consectetur adipiscing or elit. Maecenas ut smagna.</p>
 
                                 <!-- Read More -->
-                                <a href="post-details.html" class="read-more">continue reading</a>
+                                <a href="#" class="read-more">continue reading</a>
 
                             </div>
                             
@@ -84,19 +84,19 @@
                         <div class="post-wrap">
 
                             <!-- Image -->
-                            <a class="image" href="post-details.html"><img src="{{asset('assets/imgs/post/post-10.jpg')}}" alt="post"></a>
+                            <a class="image" href="#"><img src="{{asset('assets/imgs/post/post-10.jpg')}}" alt="post"></a>
 
                             <!-- Content -->
                             <div class="content fix">
 
                                 <!-- Title -->
-                                <h5 class="title"><a href="post-details.html">Hynpodia helps male travelers find health.</a></h5>
+                                <h5 class="title"><a href="#">Hynpodia helps male travelers find health.</a></h5>
 
                                 <!-- Description -->
                                 <p>Consectetur adipiscing or elit. Maecenas ut smagna.</p>
 
                                 <!-- Read More -->
-                                <a href="post-details.html" class="read-more">continue reading</a>
+                                <a href="#" class="read-more">continue reading</a>
 
                             </div>
                             

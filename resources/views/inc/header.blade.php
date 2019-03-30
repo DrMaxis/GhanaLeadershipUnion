@@ -11,7 +11,7 @@
                     <li class="disabled block d-none d-md-block"><a href="#"><i class="fa fa-clock-o"></i> Sunday, March 25, 2017</a></li>
                     <li class="d-none d-md-block"><a href="#"><i class="fa fa-mixcloud"></i> <span class="weather-degrees">20 <span class="unit">c</span> </span> <span class="weather-location">- Sydney</span></a></li>
                     <li><a href="#"><i class="fa fa-user-circle-o"></i>Sign Up</a></li>
-                    <li><a href="contact-us.html"><i class="fa fa-headphones"></i>Contact</a></li>
+                    <li><a href="#"><i class="fa fa-headphones"></i>Contact</a></li>
                     <li><a href="blog.html">Blog</a></li>
                 </ul>
                 
@@ -76,7 +76,7 @@
            
             <!-- Header Logo -->
             <div class="header-logo col-md-4 d-none d-md-block">
-                <a href="index.html" class="logo"><img src="img/logo.png" alt="Logo"></a>
+                <a href="#" class="logo"><img src="img/logo.png" alt="Logo"></a>
             </div>
             
             <!-- Header Banner -->
@@ -100,11 +100,11 @@
                         <nav>
                             <ul>
 
-                                <li class="active has-dropdown"><a href="index.html">Home</a>
+                                <li class="active has-dropdown"><a href="#">Home</a>
                                     
                                     <!-- Submenu Start -->
                                     <ul class="sub-menu">
-                                        <li><a href="index.html">Home One</a></li>
+                                        <li><a href="#">Home One</a></li>
                                         <li class="active"><a href="index-2.html">Home Two</a></li>
                                         <li><a href="index-3.html">Home Three</a></li>
                                     </ul><!-- Submenu End -->
@@ -138,9 +138,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-136.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-136.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">Marilyn Monroe’s beauty secrets the most</a></h5>
+                                                                <h5 class="title"><a href="#">Marilyn Monroe’s beauty secrets the most</a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -148,9 +148,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-137.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-137.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">Hynpodia helps fmaletravelers find health.</a></h5>
+                                                                <h5 class="title"><a href="#">Hynpodia helps fmaletravelers find health.</a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -158,9 +158,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-138.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-138.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">Upcoming Event 10 Dec at Bonobisree Area.</a></h5>
+                                                                <h5 class="title"><a href="#">Upcoming Event 10 Dec at Bonobisree Area.</a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -168,9 +168,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-139.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-139.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">Upcoming Event 10 Dec at Bonobisree Area.</a></h5>
+                                                                <h5 class="title"><a href="#">Upcoming Event 10 Dec at Bonobisree Area.</a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -178,9 +178,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-140.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-140.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">How do you solve the long tiredness.</a></h5>
+                                                                <h5 class="title"><a href="#">How do you solve the long tiredness.</a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -188,9 +188,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-141.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-141.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">Australia announced squad for Bangladesh tour</a></h5>
+                                                                <h5 class="title"><a href="#">Australia announced squad for Bangladesh tour</a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -198,9 +198,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-142.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-142.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">Fance fry with chicken burger.</a></h5>
+                                                                <h5 class="title"><a href="#">Fance fry with chicken burger.</a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -208,9 +208,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-143.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-143.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">Fashion is about some thing that comes . . . . </a></h5>
+                                                                <h5 class="title"><a href="#">Fashion is about some thing that comes . . . . </a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -225,9 +225,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-140.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-140.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">How do you solve the long tiredness.</a></h5>
+                                                                <h5 class="title"><a href="#">How do you solve the long tiredness.</a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -235,9 +235,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-141.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-141.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">Australia announced squad for Bangladesh tour</a></h5>
+                                                                <h5 class="title"><a href="#">Australia announced squad for Bangladesh tour</a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -245,9 +245,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-142.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-142.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">Fance fry with chicken burger.</a></h5>
+                                                                <h5 class="title"><a href="#">Fance fry with chicken burger.</a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -255,9 +255,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-143.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-143.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">Fashion is about some thing that comes . . . . </a></h5>
+                                                                <h5 class="title"><a href="#">Fashion is about some thing that comes . . . . </a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -265,9 +265,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-136.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-136.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">Marilyn Monroe’s beauty secrets the most</a></h5>
+                                                                <h5 class="title"><a href="#">Marilyn Monroe’s beauty secrets the most</a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -275,9 +275,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-137.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-137.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">Hynpodia helps fmaletravelers find health.</a></h5>
+                                                                <h5 class="title"><a href="#">Hynpodia helps fmaletravelers find health.</a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -285,9 +285,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-138.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-138.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">Upcoming Event 10 Dec at Bonobisree Area.</a></h5>
+                                                                <h5 class="title"><a href="#">Upcoming Event 10 Dec at Bonobisree Area.</a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -295,9 +295,9 @@
                                                     <!-- Post Start -->
                                                     <div class="post post-small col-lg-3 col-md-4 mb-30">
                                                         <div class="post-wrap">
-                                                            <a href="post-details.html" class="image"><img src="{{asset('assets/imgs/post/post-139.jpg')}}" alt="Post"></a>
+                                                            <a href="#" class="image"><img src="{{asset('assets/imgs/post/post-139.jpg')}}" alt="Post"></a>
                                                             <div class="content">
-                                                                <h5 class="title"><a href="post-details.html">Upcoming Event 10 Dec at Bonobisree Area.</a></h5>
+                                                                <h5 class="title"><a href="#">Upcoming Event 10 Dec at Bonobisree Area.</a></h5>
                                                             </div>
                                                         </div>
                                                     </div><!-- Post End -->
@@ -318,8 +318,8 @@
                                     <ul class="sub-menu">
                                         <li><a href="blog.html">blog</a></li>
                                         <li><a href="blog-details.html">blog details</a></li>
-                                        <li><a href="contact-us.html">contact</a></li>
-                                        <li><a href="post-details.html">post details</a></li>
+                                        <li><a href="#">contact</a></li>
+                                        <li><a href="#">post details</a></li>
                                     </ul><!-- Submenu End -->
                                     
                                 </li>
@@ -328,7 +328,7 @@
                         </nav>
                     </div><!-- Main Menu Start -->
 
-                    <div class="mobile-logo d-none d-block d-md-none"><a href="index.html"><img src="img/logo-white.png" alt="Logo"></a></div>
+                    <div class="mobile-logo d-none d-block d-md-none"><a href="#"><img src="img/logo-white.png" alt="Logo"></a></div>
 
                     <!-- Header Search -->
                     <div class="header-search float-right">
@@ -350,11 +350,11 @@
                         <nav>
                             <ul>
 
-                                <li class="active"><a href="index.html">Home</a>
+                                <li class="active"><a href="#">Home</a>
                                     
                                     <!-- Submenu Start -->
                                     <ul class="sub-menu">
-                                        <li><a href="index.html">Home One</a></li>
+                                        <li><a href="#">Home One</a></li>
                                         <li class="active"><a href="index-2.html">Home Two</a></li>
                                         <li><a href="index-3.html">Home Three</a></li>
                                     </ul><!-- Submenu End -->
@@ -383,8 +383,8 @@
                                     <ul class="sub-menu">
                                         <li><a href="blog.html">blog</a></li>
                                         <li><a href="blog-details.html">blog details</a></li>
-                                        <li><a href="contact-us.html">contact</a></li>
-                                        <li><a href="post-details.html">post details</a></li>
+                                        <li><a href="#">contact</a></li>
+                                        <li><a href="#">post details</a></li>
                                     </ul><!-- Submenu End -->
                                     
                                 </li>
