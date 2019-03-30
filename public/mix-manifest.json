@@ -1,0 +1,9 @@
+{
+    "/js/jquery.min.js": "/js/jquery.min.js",
+    "/js/mainapp.js": "/js/mainapp.js",
+    "/css/base.css": "/css/base.css",
+    "/css/bootstrap.min.css": "/css/bootstrap.min.css",
+    "/css/fontawesome.min.css": "/css/fontawesome.min.css",
+    "/css/plugins.css": "/css/plugins.css",
+    "/js/modernizr.min.js": "/js/modernizr.min.js"
+}

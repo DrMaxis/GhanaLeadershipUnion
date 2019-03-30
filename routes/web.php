@@ -1,8 +1,5 @@
 <?php
 
-use App\NewsTopic;
-use App\NewsArticle;
-use App\NewsCategory;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,13 +13,14 @@ use App\NewsCategory;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('homepage');
 });
 
-Route::get('/test', function () {
 
-    $articles = NewsArticle::find(1);
-    $topics = NewsTopic::find(1);
 
-    dd($articles->categories()->get(),$topics->categories()->get());
+
+
+/* Route::group(['prefix' => 'admin'], function () {
+    Voyager::routes();
 });
+ */

@@ -11,5 +11,40 @@ const mix = require('laravel-mix');
  |
  */
 
-mix.js('resources/js/app.js', 'public/js')
-   .sass('resources/sass/app.scss', 'public/css');
+
+
+ /*
+|--------------------------------------------------------------------------
+| JavaScripts
+|--------------------------------------------------------------------------
+| MainApp.js
+| Bootstrap.js -->  Required in Main App
+| JQuery.js
+| Modernizer.js
+| Popper.js -->  Required in Main App
+| Plugins.js -->  Required in Main App
+| 
+*/
+mix.js('resources/js/mainapp.js', 'public/js');
+mix.js('resources/js/vendor/jquery.min.js', 'public/js');
+mix.js('resources/js/vendor/modernizr.min.js', 'public/js');
+
+
+
+
+
+   
+/*
+|--------------------------------------------------------------------------
+| Stylesheets
+|--------------------------------------------------------------------------
+| Base.scss
+| Bootstrap.scss
+| FontAwesome.scss
+| Plugins.scss
+*/
+
+mix.sass('resources/sass/base.scss', 'public/css');
+mix.sass('resources/sass/bootstrap.min.scss', 'public/css');
+mix.sass('resources/sass/fontawesome.min.scss', 'public/css');
+mix.sass('resources/sass/plugins.scss', 'public/css');
