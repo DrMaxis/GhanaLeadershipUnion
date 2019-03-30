@@ -1,5 +1,9 @@
 <?php
 
+use App\NewsTopic;
+use App\NewsArticle;
+use App\NewsCategory;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,4 +17,12 @@
 
 Route::get('/', function () {
     return view('welcome');
+});
+
+Route::get('/test', function () {
+
+    $articles = NewsArticle::find(1);
+    $topics = NewsTopic::find(1);
+
+    dd($articles->categories()->get(),$topics->categories()->get());
 });
